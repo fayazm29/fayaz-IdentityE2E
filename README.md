@@ -64,11 +64,11 @@ Make sure maven is also installed in your local machine. Then set the maven path
 I captured the vehicle details which exists after the vehicle search.Only two reg vehicles have the details and compared it with the output file by matching it and that
 are not matched also printed to highlight the results as per the task requirements.
 
-![Alt text](images/test-result.png)
+![Alt text](images/test-result.PNG)
 
 
 
 ####  Html report
 The reports can be checked after the test run from reports folder and select the myReport.html and right click on it and open in any browser of your choice.
 
-![Alt text](images/test-report.png)
+![Alt text](images/test-report.PNG)
